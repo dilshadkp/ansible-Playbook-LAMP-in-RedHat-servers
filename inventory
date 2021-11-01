@@ -1,0 +1,2 @@
+[Redhat]
+IP-of-client-server        ansible_user="SSH-user"        ansible_port="SSH-port-of-client"        ansible_private_key_file="/path/to/ssh-key.pem"
